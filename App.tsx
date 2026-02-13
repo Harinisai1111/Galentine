@@ -210,7 +210,7 @@ const App: React.FC = () => {
             <div className="w-1 h-10 bg-pink-500 animate-[bounce_1.1s_infinite]" />
             <div className="w-1 h-5 bg-pink-400 animate-[bounce_0.9s_infinite]" />
           </div>
-          <p className="mt-4 font-handwritten text-2xl text-slate-700">"Dancing in the Kitchen" - LANY</p>
+          <p className="mt-4 font-handwritten text-2xl text-slate-700">"Best Friend- Doja Cat"</p>
         </div>
       </section>
 
